@@ -1,4 +1,4 @@
-describe world.project;   # We are able to use DESCRIBE  to see data type or structure of table
+describe world.project;   # We are able to use DESCRIBE  to see data type or structure of tables
 SELECT  # We use SELECT statement to select data form a database on this project we are going use database csv file ( SQL does not real excel file)
     *
 FROM
